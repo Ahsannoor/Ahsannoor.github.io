@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,QACI,cAGJ","file":"5.3d77c28a.chunk.css","sourcesContent":[".logout{\r\n    cursor: pointer;\r\n    /* -webkit-transition: font-size 0.5s; \r\n    transition: font-size 0.5s; */\r\n}\r\n\r\n/* .logout:hover{\r\n    font-weight: 800;\r\n    font-size: 15px;\r\n} */"]}
